@@ -1,0 +1,9 @@
+{
+  "name": "side-stack-blog",
+  "version": "0.0.0",
+  "description": "A blog with a layout where posts neatly stack to one side. Documents are displayed as cards in a list, and clicking on a card reveals the detailed content. With filtering, specific cards disappear, and the remaining cards automatically realign to fill the gaps, providing an engaging interaction.",
+  "main": "index.js",
+  "repository": "https://hangem422@github.com/hangem422/side-stack-blog.git",
+  "author": "Hant <hangem422@gmail.com>",
+  "license": "MIT"
+}
